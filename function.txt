@@ -1,0 +1,4 @@
+function wagle(){
+         console.log('This is a sample function of pooh');
+}
+
